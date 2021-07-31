@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @rajkumargautam
+- 👋 Hi, I’m @Raj kumar gautam
 - 👀 I’m interested in ...coding
 - 🌱 I’m currently learning ..c++
 - 💞️ I’m looking to collaborate on ...Website developer
